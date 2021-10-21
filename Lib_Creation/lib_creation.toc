@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {I}Introduction}{1}
-\contentsline {section}{\numberline {II}Executable File}{1}
-\contentsline {section}{\numberline {III}Static Library}{2}
-\contentsline {section}{\numberline {IV}Dynamic Library}{3}
-\contentsline {section}{References}{3}
